@@ -1,4 +1,4 @@
-name = "cf-workers-bpsub"
+name = "bpsubbaipiaol"
 main = "_worker.js"
 compatibility_date = "2024-01-01"
 keep_vars = true
